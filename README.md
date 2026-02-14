@@ -1,8 +1,6 @@
-# Meta-Ad-Performance-Analysis---Powerbi
+# Meta Ad Performance Dashboard -Powerbi
 
-# Meta Ad Performance Dashboard
-
-An interactive Power BI dashboard designed to analyze Meta (Facebook & Instagram) advertising performance across engagement, conversion, demographic, and geographic dimensions.
+An interactive Power BI dashboard designed to analze Meta (Facebook & Instagram) advertising performance across engagement, conversion, demographic, and geographic dimensions.
 
 ---
 
